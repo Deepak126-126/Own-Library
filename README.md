@@ -1,2 +1,2 @@
-# Own-Library
-it my own library which contains functions like collision and bounceOff
+# p5.play-boilerplate
+Boiler plate for p5.play
